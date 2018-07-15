@@ -1,0 +1,11 @@
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python=3.6.3=4
+- pip:
+  - ipython-genutils==0.2.0
+  - jupyter-client==5.1.0
+  - jupyter-core==4.4.0
+  - pandas==0.23.0
+  - beautifulsoup4==4.6.0
